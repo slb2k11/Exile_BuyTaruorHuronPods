@@ -7,10 +7,10 @@
     class Land_Pod_Heli_Transport_04_repair_F              { quality = 1; price = 1000; };
     class Land_Pod_Heli_Transport_04_medevac_F         { quality = 1; price = 1000; };
     class Land_Pod_Heli_Transport_04_bench_F             { quality = 1; price = 1000; };
-	///////////////////////////////////////////////////////////////////////////////
-	// Black Taru Pods
-	///////////////////////////////////////////////////////////////////////////////
-	class Land_Pod_Heli_Transport_04_covered_black_F            { quality = 1; price = 1000; };
+    ///////////////////////////////////////////////////////////////////////////////
+    // Black Taru Pods
+    ///////////////////////////////////////////////////////////////////////////////
+    class Land_Pod_Heli_Transport_04_covered_black_F            { quality = 1; price = 1000; };
     class Land_Pod_Heli_Transport_04_fuel_black_F                  { quality = 1; price = 1000; };
     class Land_Pod_Heli_Transport_04_box_black_F                  { quality = 1; price = 1000; };
     class Land_Pod_Heli_Transport_04_repair_black_F              { quality = 1; price = 1000; };
