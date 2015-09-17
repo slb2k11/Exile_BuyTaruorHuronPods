@@ -8,7 +8,7 @@
     class Land_Pod_Heli_Transport_04_medevac_F         { quality = 1; price = 1000; };
     class Land_Pod_Heli_Transport_04_bench_F             { quality = 1; price = 1000; };
     ///////////////////////////////////////////////////////////////////////////////
-    // Black Taru Pods
+    // Black Taru Pods  Actually not Working!!!!!!!!! show only the camo variants
     ///////////////////////////////////////////////////////////////////////////////
     class Land_Pod_Heli_Transport_04_covered_black_F            { quality = 1; price = 1000; };
     class Land_Pod_Heli_Transport_04_fuel_black_F                  { quality = 1; price = 1000; };
