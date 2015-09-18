@@ -10,12 +10,12 @@
     ///////////////////////////////////////////////////////////////////////////////
     // Black Taru Pods  Actually not Working!!!!!!!!! show only the camo variants
     ///////////////////////////////////////////////////////////////////////////////
-    class Land_Pod_Heli_Transport_04_covered_black_F            { quality = 1; price = 1000; };
-    class Land_Pod_Heli_Transport_04_fuel_black_F                  { quality = 1; price = 1000; };
-    class Land_Pod_Heli_Transport_04_box_black_F                  { quality = 1; price = 1000; };
-    class Land_Pod_Heli_Transport_04_repair_black_F              { quality = 1; price = 1000; };
-    class Land_Pod_Heli_Transport_04_medevac_black_F         { quality = 1; price = 1000; };
-    class Land_Pod_Heli_Transport_04_bench_black_F             { quality = 1; price = 1000; };    
+    //class Land_Pod_Heli_Transport_04_covered_black_F            { quality = 1; price = 1000; };
+    //class Land_Pod_Heli_Transport_04_fuel_black_F                  { quality = 1; price = 1000; };
+    //class Land_Pod_Heli_Transport_04_box_black_F                  { quality = 1; price = 1000; };
+    //class Land_Pod_Heli_Transport_04_repair_black_F              { quality = 1; price = 1000; };
+    //class Land_Pod_Heli_Transport_04_medevac_black_F         { quality = 1; price = 1000; };
+    //class Land_Pod_Heli_Transport_04_bench_black_F             { quality = 1; price = 1000; };    
     ///////////////////////////////////////////////////////////////////////////////
     // Huron Pods
     ///////////////////////////////////////////////////////////////////////////////
