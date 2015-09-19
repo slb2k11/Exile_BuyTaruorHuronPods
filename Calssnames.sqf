@@ -17,7 +17,7 @@
     //class Land_Pod_Heli_Transport_04_medevac_black_F         { quality = 1; price = 1000; };
     //class Land_Pod_Heli_Transport_04_bench_black_F             { quality = 1; price = 1000; };    
     ///////////////////////////////////////////////////////////////////////////////
-    // Huron Pods
+    // Huron Pods Beta not lockable!!
     ///////////////////////////////////////////////////////////////////////////////
     class B_Slingload_01_Cargo_F                        { quality = 1; price = 1000; };
     class B_Slingload_01_Fuel_F                            { quality = 1; price = 1000; };
